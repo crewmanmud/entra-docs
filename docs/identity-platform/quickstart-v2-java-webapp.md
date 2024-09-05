@@ -65,7 +65,7 @@ ms.topic: quickstart
 >   Put the generated keystore file in the *resources* folder.
 > 
 > > [!div class="sxs-lookup nextstepaction"]
-> > [Download the code sample](https://github.com/Azure-Samples/ms-identity-java-webapp/archive/master.zip)
+> > [Download the code sample](https://github.com/Azure-Samples/ms-identity-java-webapp/archive/refs/heads/archive.zip)
 > 
 > > [!div class="sxs-lookup"]
 > > > [!NOTE]
